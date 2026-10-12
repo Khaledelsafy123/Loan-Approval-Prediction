@@ -157,5 +157,4 @@ loan-approval-prediction/
 ## Author
 
 Khaled Elsafy
-
 [GitHub profile](https://github.com/Khaledelsafy123)
